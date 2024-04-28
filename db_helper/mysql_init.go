@@ -1,0 +1,5 @@
+package dbhelper
+
+func init(){
+	
+}
